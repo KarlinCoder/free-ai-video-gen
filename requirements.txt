@@ -1,6 +1,7 @@
 flask==2.3.3
 flask-cors==4.0.0
-g4f==0.2.1.0
+g4f==6.5.7
 requests==2.31.0
 asyncio==3.4.3
+
 aiohttp==3.8.5
