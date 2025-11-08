@@ -1,3 +1,4 @@
 flask==2.3.3
 flask-cors==4.0.0
 g4f==6.5.7
+typing-extensions==4.12.0
